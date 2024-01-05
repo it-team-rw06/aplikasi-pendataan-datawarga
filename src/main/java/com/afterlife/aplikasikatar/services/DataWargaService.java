@@ -1,6 +1,6 @@
 package com.afterlife.aplikasikatar.services;
 
-import com.afterlife.aplikasikatar.repositories.DataWargaRepo;
+import com.afterlife.aplikasikatar.repositories.TMWargaRepo;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -10,5 +10,5 @@ import org.springframework.stereotype.Service;
 public class DataWargaService {
 
     @Autowired
-    private DataWargaRepo repo;
+    private TMWargaRepo repo;
 }
