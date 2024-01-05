@@ -9,7 +9,7 @@
 	<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.afterlife</groupId>
-	<artifactId>system-pendataan-warga</artifactId>
+	<artifactId>aplikasi-katar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>system-pendataan-warga</name>
 	<description>Enterprise  Masjid</description>
